@@ -1,0 +1,27 @@
+#img{
+    width: 1500px;
+    height: 1000px;}
+   
+*{
+    text-align: center;
+    margin: 0px 20px 0px 20px;
+}
+
+#nav{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+}
+.oral{
+    width: 400px;
+    height: 350px;}
+.genital{
+    width: 500px;
+    height: 400px;
+}
+li{
+    text-align: left;
+}

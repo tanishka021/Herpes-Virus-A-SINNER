@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    margin: 10px 50px 0px 50px;
+}
+h2{
+    border: 2px solid red;
+}
+h3{
+    background-color: black;
+   
+}
+li{
+    text-align: left;
+}
+#herp{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
